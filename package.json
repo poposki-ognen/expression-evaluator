@@ -1,0 +1,14 @@
+{
+  "name": "expression-evaluator",
+  "version": "0.0.1",
+  "description": "Evaluating expressions based on binary tree implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ognen Poposki",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^8.5.2"
+  }
+}
